@@ -27,7 +27,7 @@ Steps
 
     
 
-git clone https://github.com/yourusername/praxyd.git
+git clone https://github.com/s-b-repo/paxy/tree/main
 
 Navigate into the project directory:
 
