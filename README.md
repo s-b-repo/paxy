@@ -27,7 +27,7 @@ Steps
 
     
 
-git clone https://github.com/s-b-repo/paxy/tree/main
+git clone https://github.com/s-b-repo/paxy.git
 
 Navigate into the project directory:
 
